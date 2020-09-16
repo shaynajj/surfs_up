@@ -17,5 +17,6 @@ To analyze weather trends before opening a surf shop in Oahu to determine if the
 ## Summary
 - The average temperatures in June and December are 75 and 71 degrees respectively
 - The average precipitation in June and December is 0.136 and 0.217 inches respectively
+
 ![June Precipitation](./Resources/june_prec.png)
 ![December Precipitation](./Resources/dec_prec.png)
